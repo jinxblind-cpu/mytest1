@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.hello.me'
+    namespace 'com.test.we1'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.hello.me"
+        applicationId "com.test.we1"
         minSdk 24
         targetSdk 34
         versionCode 1
